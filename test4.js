@@ -19,3 +19,5 @@ var dasdz = 2 == 3;
 
   var alksdjas = 4;
  var z = 2 == 2;
+
+var xasdasdasdasd = 1 == 3
