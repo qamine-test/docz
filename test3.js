@@ -18,3 +18,4 @@ eval('zzzzzz');
 var dasdz = 2 == 3;
 
   var alksdjas = 4;
+ var z = 2;
