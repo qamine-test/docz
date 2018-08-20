@@ -12,3 +12,8 @@ if (1 == 3) { console.log(""); }
 
 
 var t = 2 == 3
+
+
+var dasdz = 2 == 3;
+
+  var alksdjas = 4;
