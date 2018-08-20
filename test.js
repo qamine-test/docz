@@ -6,3 +6,4 @@ debugger;
 
 console.log("");
 
+var z = 1.2
