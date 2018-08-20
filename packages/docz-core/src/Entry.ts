@@ -22,7 +22,7 @@ export const parseMdx = (file: string): Promise<string> => {
     .use(matter)
     .use(parseFrontmatter)
     .use(slug)
-
+  eval("Cenas")
   return parser.run(parser.parse(raw))
 }
 
