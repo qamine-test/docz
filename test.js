@@ -9,3 +9,6 @@ console.log("");
 var z = 1.2
 
 if (1 == 3) { console.log(""); }
+
+
+var k = 1.3 == 3
