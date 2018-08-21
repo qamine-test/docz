@@ -12,3 +12,5 @@ if (1 == 3) { console.log(""); }
 
 
 var k = 1.3 == 3
+
+let z = true ? false : true
