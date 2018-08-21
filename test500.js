@@ -13,3 +13,6 @@ alert("hey!!!!");
 
 var z = 3-1;
 var xpto= 0 == '0';
+
+if(1 == 3) { console.log("Test"); }
+
