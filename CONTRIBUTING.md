@@ -10,7 +10,7 @@ If you will develop some pull request, it's very important follow these basic ru
 
 Commit messages should follow the [commit message convention](https://conventionalcommits.org/) so that changelogs can be automatically generated. Commit messages will be automatically validated upon commit. If you are not familiar with the commit message convention, you can use `yarn commit` instead of `git commit`, which provides an interactive CLI for generating proper commit messages.
 
-### General guidelines
+### General guidilines
 
 - The master branch is basically just a snapshot of the latest stable release. All development should be done in dedicated branch. **Do not submit PRs against the master branch.**
 - Checkout a topic branch from the relevant branch, e.g. `dev`, and merge back against that branch.
